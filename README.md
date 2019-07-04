@@ -20,7 +20,7 @@ let config = {
 };
 ```
 
-**Rodando o servidor - Android**
+**Rodando o servidor**
 ```sh
 npm start
 ```

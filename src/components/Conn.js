@@ -1,8 +1,8 @@
 import firebase from 'firebase';
 
  // Your web app's Firebase configuration
- let firebaseConfig = {
-  //Aqui dados
+ var firebaseConfig = {
+  //Seus dados aqui
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
